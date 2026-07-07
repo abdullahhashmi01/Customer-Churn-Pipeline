@@ -3,6 +3,7 @@ numpy
 scikit-learn
 xgboost
 joblib
-openpyxl>=3.1.0
+openpyxl
 matplotlib
 seaborn
+streamlit
