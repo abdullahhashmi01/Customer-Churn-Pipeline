@@ -29,9 +29,10 @@ telco-churn-pipeline/
 │   ├── train.py                # Pipeline + GridSearchCV + joblib export
 │   └── predict.py              # load saved pipeline, predict on new data
 ├── models/churn_pipeline.joblib
-├── app/app.py                  # Streamlit demo app
+├── streamlit_app.py                # Streamlit demo app
 ├── main.py                     # entry point
 └── requirements.txt
+
 ```
 
 ## How to Run
